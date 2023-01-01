@@ -1,7 +1,5 @@
 # GostBomber
 ````
-cd
-
 
 rm -rf GostBomber
 
