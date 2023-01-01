@@ -19,7 +19,7 @@ pkg install git -y
 pip install requests
 
 
-git clone https://github.com/Mrgost911/GostBomber
+git clone  https://github.com/mrghost911/GostBomber.git
 
 
 cd GostBomber
